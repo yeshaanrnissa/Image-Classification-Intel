@@ -3,5 +3,5 @@ This project uses the Intel Image Classification dataset, which consists of natu
 
 ## Dataset
 The dataset used in this project is the **Intel Image Classification Dataset**.
-Download here: [Intel Image Classification (Kaggle)]
-(https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+Download here:
+(https://www.kaggle.com/datasets/puneet6060/intel-image-classification) [Intel Image Classification (Kaggle)]
